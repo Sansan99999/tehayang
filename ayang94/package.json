@@ -1,6 +1,6 @@
 {
   "name": "ayang94",
-  "version": "2",
+  "version": "2.0.0",
   
   "scripts": {
     "dev": "next dev",
